@@ -4,3 +4,7 @@ the prototype one is a basic model on how to build an ordinary website using bas
 
 ## the first page consits of a slideshow container displaying vedios :
 eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/LOGO.png "logo - eishaa communications")
+## the first page consits of a slideshow container displaying vedios :
+eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/LOGO.png "logo - eishaa communications")
+## the first page consits of a slideshow container displaying vedios :
+eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/LOGO.png "logo - eishaa communications")
