@@ -1,7 +1,6 @@
-# Eishaa communications pvt.Ltd
+# The landing page for the first prototype :
 
-### website for eisha communications to access the wesite prototye click the link bellow
-###### < https://dhanwanthkumar.github.io/eishaa-prototype3/ >
-<p>this prototype is a final verion of things being uploaded on the official website eishaa communications pvt.ltd</p>
-<p>some of the minor changes are 👇🏻:</p>
-https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/LOGO.png
+the prototype one is a basic model on how to build an ordinary website using bassic knowledge of html and css 
+
+## the first page consits of a slideshow container displaying vedios :
+eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/LOGO.png "logo - eishaa communications")
