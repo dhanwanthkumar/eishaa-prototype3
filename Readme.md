@@ -7,10 +7,10 @@
 
 #### changes 👉🏻:
 ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/changes1.png "favicon - eishaa communications")
-<p>added a favicon to the website beside the title</p>
-
+added a favicon to the website beside the title
+#
 ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/changes2.png "first slide - eishaa communications")
-<p>modified the content in the slideshow container</p>
-
+modified the content in the slideshow container
+#
 ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/changes3.png "minor changes - eishaa communications")
-<p>and some minor changes in the allignment</p>
+and some minor changes in the allignment
