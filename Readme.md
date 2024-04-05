@@ -5,7 +5,7 @@
 <p>this prototype is a final verion of things being uploaded on the official website eishaa communications pvt.ltd</p>
 <p>some of the minor changes are 👇🏻:</p>
 #### changes 👉🏻:
-eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/changes1.png "logo - eishaa communications")
+eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype1/blob/master/images/LOGO.png "logo - eishaa communications")
 <p>added a favicon to the website beside the title</p>
 #
 eishaa: ![alt text](https://github.com/dhanwanthkumar/eishaa-prototype3/blob/master/images/changes2.png "logo - eishaa communications")
